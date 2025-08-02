@@ -5,11 +5,11 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 **Currently working on:** To-Do List App
-* 🌱 **Learning:** JavaScript, React.js, Node.js, Express.js, MongoDB, Git & the full MERN Stack
-* 🤝 **Open to collaborate on:** MERN Stack Projects
-* 📫 **Contact me at:** [anilsunuwarofc@gmail.com](mailto:anilsunuwarofc@gmail.com)
-* ⚡ **Fun Fact:** I debug my own bugs 😅 with ☕
+* 🔭 **Currently working on:** **To-Do List App
+* 🌱 **Learning:** **JavaScript, React.js, Node.js, Express.js, MongoDB, Git & the full MERN Stack
+* 🤝 **Open to collaborate on:** **MERN Stack Projects
+* 📫 **Contact me at:** **[anilsunuwarofc@gmail.com](mailto:anilsunuwarofc@gmail.com)
+* ⚡ **Fun Fact:** **I debug my own bugs 😅 with ☕
 
 ---
 
