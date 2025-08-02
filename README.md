@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋🌟🚀, I'm <span style="color:#4CAF50">Anil Sunuwar</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4CAF30">Anil Sunuwar</span></h1>
 <h3 align="center">🚀 Passionate MERN Stack Developer | From Nepal 🇳🇵</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🔭 **Currently working on:** To-Do List App
-* 🌱 **Learning:** 
-JavaScript, React.js, Node.js, Express.js, MongoDB, Git & the full MERN Stack
-* 🤝 **Open to collaborate on:** 
-MERN Stack Projects
-* 📫 **Contact me at:** 
-[anilsunuwarofc@gmail.com](mailto:anilsunuwarofc@gmail.com)
-* ⚡ **Fun Fact:** 
-I debug my own bugs 😅 with ☕
+* 🔭 Currently working on: **To-Do List App**
+* 🌱 Learning: **JavaScript, React.js, Node.js, Express.js, MongoDB, Git & the full MERN Stack**
+* 🤝 Open to collaborate on: **MERN Stack Projects**
+* 📫 Contact me at: **[anilsunuwarofc@gmail.com](mailto:anilsunuwarofc@gmail.com)**
+* ⚡ Fun Fact: **I debug my own bugs 😅 with ☕**
 
 ---
 
