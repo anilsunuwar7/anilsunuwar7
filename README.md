@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Currently working on: **To-Do List App**  
+<!--- 🔭 Currently working on: **To-Do List App**  -->
 - 🌱 Learning: **JavaScript, React.js, Node.js, Express.js, MongoDB, Git & the full MERN Stack**  
 - 🤝 Open to collaborate on: **MERN Stack Projects**  
 - 📫 Contact me at: **[anilsunuwarofc@gmail.com](mailto:anilsunuwarofc@gmail.com)**  
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠 Tech Stack  
+<!--### 🛠 Tech Stack  
 
 #### 🌐 Frontend  
 <p align="left">
@@ -52,7 +52,7 @@
 </p>  
 
 ---
-
+-->
 ### 📊 GitHub Stats  
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=anilsunuwar7&show_icons=true&locale=en&theme=radical" height="150" />
