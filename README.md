@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me  
 <!--- 🔭 Currently working on: **To-Do List App**  -->
 - 🌱 Learning: **JavaScript, React.js, Node.js, Express.js, MongoDB, Git & the full MERN Stack**  
-- 🤝 Open to collaborate on: **MERN Stack Projects**  
+<!--- - 🤝 Open to collaborate on: **MERN Stack Projects** --> 
 - 📫 Contact me at: **[anilsunuwarofc@gmail.com](mailto:anilsunuwarofc@gmail.com)**  
 - ⚡ Fun Fact: **I debug my own bugs 😅 with ☕**  
 
@@ -16,7 +16,7 @@
 <p align="left"> 
   <a href="https://linkedin.com/in/anilsunuwar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://twitter.com/anilsunuwarr" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.youtube.com/@goideax" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
+  <a href="https://www.youtube.com/@growfyrow" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
 </p>  
 
 ---
