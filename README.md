@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anil%20Sunuwar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20Nepal%20🇳🇵&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anil%20Sunuwar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Learner%20%7C%20%20%7C%20Nepal%20🇳🇵&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Anil+%F0%9F%91%8B;A+Passionate+MERN+Stack+Developer;Turning+Ideas+into+Reality%2C+One+Commit+at+a+Time;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Anil+%F0%9F%91%8B;Full+Stack+Learner+%F0%9F%93%9A;Turning+Ideas+into+Reality%2C+One+Commit+at+a+Time;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,11 +20,10 @@
 const anil = {
   name:       "Anil Sunuwar",
   location:   "Nepal 🇳🇵",
-  role:       "Fresher MERN Stack Developer",
+  role:       "Full Stack Learner[MERN]",
   learning:   ["JavaScript", "React.js", "Node.js",
                "Express.js", "MongoDB"],
-  currentProject: "To-Do List App 📝",
-  openTo:     "MERN Stack Collaborations 🤝",
+  currentProject: "***",
   funFact:    "I debug my own bugs 😅 with ☕",
   contact:    "anilsunuwarofc@gmail.com",
   motto:      "Code. Debug. Coffee. Repeat. ☕"
@@ -126,15 +125,16 @@ const anil = {
 
 ---
 
-### 🚀 Current Journey
+<!--### 🚀 Current Journey
 
 ```
-🌱  Learning     ████████████░░░░░░░  65% — MERN Stack
+🌱  Learning     ████████████░░░░░░░  65% — Full Stack (MERN)
 🔨  Building     ██████░░░░░░░░░░░░░  30% — To-Do List App
+🌐  Full Stack   █████████░░░░░░░░░░  45% — Frontend + Backend + DB
 🤝  Networking   █████████░░░░░░░░░░  45% — Growing on LinkedIn
 ⭐  Goals        ██░░░░░░░░░░░░░░░░░  10% — Land First Dev Job!
 ```
-
+-->
 ---
 
 <div align="center">
