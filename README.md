@@ -36,7 +36,7 @@ const anil = {
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 #### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,7 +64,7 @@ const anil = {
 
 ### 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anilsunuwar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilsunuwarofc@gmail.com)
