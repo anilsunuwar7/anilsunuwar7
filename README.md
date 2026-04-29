@@ -36,7 +36,7 @@ const anil = {
   email: "anilsunuwarofc@gmail.com",
 
   philosophy:
-    "Learn consistently, build real projects, and improve every single day."
+    "Learn consistently, improve every single day."
 };
 ```
 
@@ -73,12 +73,10 @@ const anil = {
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anilsunuwar7&theme=github-dark&hide_border=true"/>
 
-</div>
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilsunuwar7&layout=compact&theme=github_dark&hide_border=true"/>
-
+</div>
 </div>
 
 ---
