@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
 
-### 👨‍💻 About Me
+<!--### 👨‍💻 About Me
 
 ```javascript
 const anil = {
@@ -61,7 +61,7 @@ const anil = {
 </div>
 
 ---
-
+-->
 ### 🌐 Connect With Me
 
 <div align="left">
@@ -111,7 +111,7 @@ const anil = {
 
 ---
 
-### 🐍 Contribution Snake
+<!--### 🐍 Contribution Snake
 
 <div align="center">
 
