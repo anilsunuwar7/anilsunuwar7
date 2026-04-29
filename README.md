@@ -74,7 +74,7 @@ const anil = {
 
 ---
 
-### 🏆 GitHub Trophies
+<!--### 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -83,7 +83,7 @@ const anil = {
 </div>
 
 ---
-
+-->
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -147,8 +147,15 @@ const anil = {
 
 <div align="center">
 
+## 👀 Visitor Count
+
 ![Visitor Count](https://visitcount.itsvg.in/api?id=anilsunuwar7&icon=6&color=6)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<br>
+
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" 
+width="100%" 
+/>
 
 </div>
