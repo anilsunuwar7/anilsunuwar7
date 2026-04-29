@@ -67,11 +67,11 @@ const anil = {
 
 # 📊 GitHub Stats 
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilsunuwar7&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anilsunuwar7&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anilsunuwar7&theme=github-dark&hide_border=true"/>
+<img height="170em"  src="https://github-readme-streak-stats.herokuapp.com/?user=anilsunuwar7&theme=github-dark&hide_border=true"/>
 
 </div>
 
