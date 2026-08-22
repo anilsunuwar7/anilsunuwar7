@@ -65,20 +65,20 @@ const anil = {
 
 ---
 
-# 📊 GitHub Stats 
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anilsunuwar7&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anilsunuwar7&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170em"  src="https://github-readme-streak-stats.herokuapp.com/?user=anilsunuwar7&theme=github-dark&hide_border=true"/>
+<img height="170em" src="https://streak-stats.demolab.com/?user=anilsunuwar7&theme=github-dark&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilsunuwar7&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilsunuwar7&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
 </div>
 
 ---
@@ -87,7 +87,7 @@ const anil = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anilsunuwar7&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anilsunuwar7\&theme=github-dark\&hide_border=true\&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
